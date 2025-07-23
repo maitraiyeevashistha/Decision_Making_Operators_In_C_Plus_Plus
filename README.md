@@ -28,7 +28,7 @@ This program checks if a number can be divided by 2 without a remainder. It uses
  - Else, print “Odd”.
 
 ### Output:
-Enter the number: 62 
+Enter the number: 62                    
 The given number is even.
 
 
