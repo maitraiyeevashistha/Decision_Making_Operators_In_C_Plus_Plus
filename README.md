@@ -1,8 +1,5 @@
 # Decision Making Operators
 
-## Name: Maitraiyee Vashistha
-## PRN: 24070123057
-## Division: ENTC-A3
 ## Title: Decision Making Operators In C ++
 ---
 ## Aim:
